@@ -1,0 +1,33 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.tekraze.sparkhipster"
+        },
+        "jhipsterVersion": "5.7.1",
+        "applicationType": "monolith",
+        "baseName": "sparkhipster",
+        "packageName": "com.tekraze.sparkhipster",
+        "packageFolder": "com/tekraze/sparkhipster",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "no",
+        "enableHibernateCache": false,
+        "websocket": false,
+        "databaseType": "cassandra",
+        "devDatabaseType": "cassandra",
+        "prodDatabaseType": "cassandra",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "OGI0MzAwZjA2MzYzOGRiNjhkNDNiNDVlYmE3MGY3OGUyODdmNjJlZWUwODE0MmYyMzYxZWU2MGNhYmE0ZTdjNmExMjNkNTk4ZmU5YmMwNGY4NDM4NzRkZjQ1Yzk5ZmQwMWY0NDNmM2NlYWZlYjEwYjZlZGM1MTg2NGJlMDRjNzg=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
